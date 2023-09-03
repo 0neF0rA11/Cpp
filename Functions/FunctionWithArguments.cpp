@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-/*
+
 void factorial(int number)
 {
 	int amount = 1;
@@ -15,4 +15,3 @@ int main()
 {
 	factorial(5);
 }
-*/
